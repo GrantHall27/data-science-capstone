@@ -1,0 +1,9 @@
+Data Requirements:
+
+Two datasets are required for this project:
+
+    • The co-ordinates of London Underground Stations.  This information can be found in a table at       https://wiki.openstreetmap.org/wiki/List_of_London_Underground_stations.  
+    
+This information will need to be cleaned up since the some of the cells containing co-ordinates include additional information (an error estimate).
+      
+    • The data from FourSquare about the types of businesses within a certain radius of the London Underground Stations.
