@@ -1,0 +1,7 @@
+Clustering London Tube Stations Based on Nearby Businesses for Advertising Purposes
+
+This project is aimed at assisting advertising agencies identify at which groups of London Underground Stations (LUS) they should buy advertising space.
+
+LUS rent wall space to advertising agencies.  The advertising agencies want to ensure that their adverts are well targeted. The sort of businesses around a station tells them something about the type of people who are most likely to be transiting through a station and therefore what they might be interested in purchasing, eg if there is lots of pubs and other evening venues around a station music or alcohol adverts might be effective, and if there is a lot of parks and cafes, adverts for books might be more effective.  
+
+In order to reduce costs an advertising agency wants to buy space at a number of stations at one time.  This project aims to cluster LUS together based on the surrounding businesses to help advertising agencies identify groups of stations where they should buy space (to get the bulk buying discount).
